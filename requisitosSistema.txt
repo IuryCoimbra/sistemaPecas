@@ -1,0 +1,14 @@
+3 requisitos:
+
+Verificar se a peça possui mais de 100gramas
+	sim: Pode cadastrar
+	nao: Não pode cadastrar
+
+Verificar se o número de peças cadastradas, e não pode ter mais de 10 peças
+	menos de 10: Pode cadastrar
+	10 ou mais: Não pode cadastrar
+
+Verificar o comprimento do nome da peça
+	menos que 3 caracteres: Não pode cadastrar
+	3 ou mais caracteres: Pode cadastrar
+
